@@ -56,15 +56,6 @@ The homepage menu categories are defined in `.yml` files in the `_data/` folder.
    - To stop the app from running, simply open another instance of the terminal and type `docker compose down`.
    - Alternatively, you can revisit the existing terminal running the container and type `CTRL + C`.
 
-## Screenshots
-
-Here are some screenshots of the CC Resource Archive:
-
-1. **Homepage:**
-   ![Homepage](path/to/homepage-screenshot.png)
-
-2. **Resource Page:**
-   ![Resource Page](path/to/resource-page-screenshot.png)
 
 ## License
 
